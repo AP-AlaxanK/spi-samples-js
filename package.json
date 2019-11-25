@@ -28,7 +28,7 @@
     "webpack-dev-server": "^3.1.10"
   },
   "dependencies": {
-    "@assemblypayments/spi-client-js": "^2.6.3",
+    "@assemblypayments/spi-client-js": "https://github.com/AssemblyPayments/spi-client-js.git#feature/posid-all-requests",
     "@babel/cli": "^7.1.2",
     "@babel/core": "^7.1.2",
     "@babel/preset-env": "^7.1.0",
